@@ -1,0 +1,29 @@
+\hypertarget{bebida_8h}{}\section{bebida.\+h File Reference}
+\label{bebida_8h}\index{bebida.\+h@{bebida.\+h}}
+
+
+Implementação da classe bebida.  
+
+
+{\ttfamily \#include \char`\"{}produto.\+h\char`\"{}}\\*
+Include dependency graph for bebida.\+h\+:
+% FIG 0
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{classBebida}{Bebida}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Implementação da classe bebida. 
+
+\begin{DoxyAuthor}{Author}
+Trecios 
+\end{DoxyAuthor}
+\begin{DoxySince}{Since}
+28/05/2018 
+\end{DoxySince}
+\begin{DoxySeeAlso}{See also}
+\href{http://www.google.com/}{\tt http\+://www.\+google.\+com/} 
+\end{DoxySeeAlso}
